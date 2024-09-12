@@ -9,4 +9,5 @@ let NombreCompleto;
 // camelCase la primera letra del nombre de la variable comienza con mayúscula y las siguientes letras de la palabra con mayúscula, esto es solo en caso de que sea un nombre compuesto de varias palabras
 let nombreCompleto;
 
-// snake_case 
+// snake_case las palabras son en minúsculas y cada vez que comienza una nueva palabra se separa con un _
+let nombre_completo;
